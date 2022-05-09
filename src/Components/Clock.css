@@ -1,0 +1,12 @@
+.Clock {
+    background-color: rgb(145, 145, 145);
+    display: flex;
+    justify-content: left;
+    margin-left: 35px;
+    width: 40%;
+    text-align: center;
+    text-indent: 230px;
+    border-radius: 20px;
+    margin-top: 20px;
+    flex-direction: row;
+}
