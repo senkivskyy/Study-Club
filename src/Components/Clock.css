@@ -9,4 +9,18 @@
     border-radius: 20px;
     margin-top: 20px;
     flex-direction: row;
+
+    position:relative; top:35px;
+}
+
+.WeekDay {
+    color: white;
+}
+
+.Date {
+    color: white;
+}
+
+.Time2 {
+    font-size: 40px;
 }

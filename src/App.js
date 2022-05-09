@@ -18,7 +18,7 @@ function App() {
           <Link to ='/profile'>Profile</Link>
         </nav>
         <Routes>
-          <Route path='/' element={<Home />} />
+          <Route path='/' element={<Home/>} />
           <Route path='/settings' element={<Settings />} />
           <Route path='/profile' element={<Profile />} />
         </Routes>

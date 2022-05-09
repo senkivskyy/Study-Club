@@ -5,6 +5,9 @@
     text-align: center;
     border-radius: 20px;
     margin-top: 20px;
-    height: 250px;
+    height: 400px;
     flex-direction: row;
+
+    position:relative; left:800px; top:-370px;
 }
+

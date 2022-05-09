@@ -5,10 +5,43 @@ function ToDo() {
     return (
         <div className = "ToDo">
             <div className = "Subject1">
+                <br></br>
                 <h1>To Do List</h1>
             </div>
             <div className = "Type">
-                <input type="text" value="Type here..."></input>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+                <br></br>
+                <input type="checkbox"></input>
+                <input type="text"></input>
+
             </div>
         </div>
     )

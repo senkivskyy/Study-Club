@@ -8,10 +8,11 @@ function Profile () {
 
     return (
         <div>
+            <h1>Followers</h1>
+            <Profinfo />
             <h2>{count}</h2>
             <button type='button' onClick={() => setCount(prevCount => prevCount + 1)} >+</button>
             <button type='button' onClick={() => setCount(prevCount => prevCount - 1)} >-</button>
-            <Profinfo />
         </div>
     )
 }

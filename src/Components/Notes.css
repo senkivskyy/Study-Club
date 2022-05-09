@@ -8,5 +8,5 @@
     height: 250px;
     flex-direction: row;
 
+    position:relative; top:-100px;
 }
-

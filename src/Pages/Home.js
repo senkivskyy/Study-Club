@@ -1,3 +1,4 @@
+import './Home.css'
 import NavBar from '../Components/NavBar';
 import Clock from '../Components/Clock';
 import Timer from '../Components/Timer';
